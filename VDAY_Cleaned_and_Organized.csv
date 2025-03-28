@@ -1,0 +1,385 @@
+Timestamp,Email Address,Gender,Age,College ,Degree_Program,Year_Level,Rel_Status,Prev_Rel,Men_knows ,Want_for_Vday,How_Rom_VDay,Imp_Quality,Men_confess_/_Women_answer 
+2/6/2025 9:51:57,aidelajusta@my.cspc.edu.ph,Female,19-24,CHS,BSM,Junior,Single,0,No,Flowers,Very Romantic,Shared interests,Yes
+2/6/2025 13:07:44,llberdul@my.cspc.edu.ph,Female,19-24,CHS,BSN,Junior,Single,1,Yes,Greeting Cards,Not At All Romantic,Intelligence,No
+2/7/2025 11:04:17,mamasiglat@my.cspc.edu.ph,Female,16-18,CHS,BSM,Freshmen,Single,1,No,Romantic Dinners/Getaways,Not At All Romantic,Intelligence,No
+2/7/2025 17:10:13,xiparone@my.cspc.edu.ph,Female,19-24,CHS,BSN,Junior,In a relationship,2,Yes,Greeting Cards,Moderately Romantic,Shared interests,Yes
+2/7/2025 17:12:34,joclavillas@my.cspc.edu.ph,Female,19-24,CHS,BSN,Junior,Single,2,No,K-pop Merchandise,Moderately Romantic,Sensitivity,Maybe
+2/7/2025 17:25:21,aldelacruz@my.cspc.edu.ph,Female,19-24,CHS,BSN,Junior,Single,0,No,Romantic Dinners/Getaways,Moderately Romantic,Shared interests,Maybe
+2/7/2025 18:47:42,shcorsal@my.cspc.edu.ph,Female,16-18,CHS,BSM,Freshmen,Single,0,Yes,Flowers,Moderately Romantic,Sincerity,Yes
+2/7/2025 19:12:13,mahertez@my.cspc.edu.ph,Female,19-24,CHS,BSN,Senior,In a relationship,10 and more,Yes,Candy/Chocolate,Moderately Romantic,Shared interests,No
+2/7/2025 20:04:18,leestilos@my.cspc.edu.ph,Male,19-24,CHS,BSN,Senior,Single,2,Yes,Other (Please Specify),Not At All Romantic,Money,Yes
+2/7/2025 20:27:37,kibeato@my.cspc.edu.ph,Female,19-24,CHS,BSM,Sophomore,Single,3,Yes,Romantic Dinners/Getaways,Moderately Romantic,Intelligence,Maybe
+2/7/2025 22:11:31,jaabonita@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Junior,Single,0,No,Flowers,Not At All Romantic,Shared interest,Yes
+2/7/2025 22:14:42,alcalingacion@my.cspc.edu.ph,Female,19-24,CCS,BSCS,Junior,In a relationship,0,No,all of the above except kpop merchandise,Moderately Romantic,all of the above,No
+2/7/2025 22:18:13,misentillas@my.cspc.edu.ph,Female,19-24,CCS,BLIS,Junior,In a relationship,4,They will never know!,Romantic Dinners/Getaways,Moderately Romantic,Sincerity,No
+2/7/2025 22:19:59,beprades@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Junior,Single,1,No,"To hear ""I Love You",Moderately Romantic,Humor/Fun,Maybe
+2/7/2025 22:26:32,jimalapo@my.cspc.edu.ph,Female,19-24,CCS,BLIS,Sophomore,In a relationship,2,No,Greeting Cards,Moderately Romantic,Sincerity,No
+2/7/2025 22:29:01,maribermido@my.cspc.edu.ph,Female,19-24,CCS,BLIS,Junior,Single,0,No,Candy/Chocolate,Moderately Romantic,Sincerity,Maybe
+2/7/2025 22:38:11,jacagorong@my.cspc.edu.ph,Female,19-24,CCS,BSCS,Junior,Single,0,They will never know!,Money,Not At All Romantic,"Good looks, Mabango with money 🥰",No
+2/7/2025 22:58:37,ljsaldivar@my.cspc.edu.ph,Male,19-24,CCS,BSCS,Junior,In a relationship,0,No,Candy/Chocolte,Not At All Romantic,Shared interest,Maybe
+2/7/2025 23:00:18,marempillo@my.cspc.edu.ph,Male,19-24,CCS,BSCS,Junior,In a relationship,10 and more,Yes,Romantic Dinners/Getaways,Very Romantic,Shared interest,Maybe
+2/7/2025 23:01:04,jogavina@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Junior,Single,0,Yes,Flowers,Not At All Romantic,Inteligence,No
+2/7/2025 23:09:10,edpresnillo@my.cspc.edu.ph,Female,19-24,CCS,BSIS,Sophomore,In a relationship,10 and more,Yes,Flowers,Very Romantic,Good looks,Maybe
+2/7/2025 23:10:28,jervillanueva@my.cspc.edu.ph,Male,19-24,CCS,BSIS,Sophomore,Single,3,They will never know!,Baby,Very Romantic,Money,No
+2/7/2025 23:13:39,mabetervo@my.cspc.edu.ph,Female,19-24,CCS,BSIS,Sophomore,In a relationship,0,Yes,Flowers,Moderately Romantic,Humor/Fun,Maybe
+2/7/2025 23:13:47,chhosana@my.cspc.edu.ph,Female,19-24,CCS,BSIS,Sophomore,Single,6,They will never know!,Flowers,Very Romantic,Humor/Fun,Maybe
+2/7/2025 23:16:06,ma.vmorillo@my.cspc.edu.ph,Female,19-24,CCS,BSIS,Sophomore,It's complicated,5,No,Flowers,Not At All Romantic,Sincerity,Yes
+2/7/2025 23:16:52,jocelaje@my.cspc.edu.ph,Female,19-24,CCS,BLIS,Junior,Single,0,They will never know!,Wattpad books,Not At All Romantic,Shared interest,Maybe
+2/7/2025 23:25:22,cabuena@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Junior,Single,2,No,"To hear ""I Love You""",Moderately Romantic,Shared interest,Maybe
+2/7/2025 23:26:11,yncalibara@my.cspc.edu.ph,Female,19-24,CCS,BSIS,Sophomore,Single,1,Yes,movie date,Moderately Romantic,Sincerity,Maybe
+2/7/2025 23:28:30,japadayhag@my.cspc.edu.ph,Male,19-24,CCS,BSIS,Sophomore,In a relationship,0,Yes,Flowers,Moderately Romantic,Ambition,Yes
+2/7/2025 23:30:08,jopulido@my.cspc.edu.ph,Female,19-24,CCS,BSIS,Sophomore,In a relationship,10 and more,No,Romantic Dinners/Getaways,Very Romantic,Shared interest,No
+2/7/2025 23:34:36,direyes@my.cspc.edu.ph,Female,19-24,CCS,BSIS,Freshmen,In a relationship,1,Yes,Flowers,Very Romantic,Good looks,Yes
+2/7/2025 23:38:31,anbernardino@my.cspc.edu.ph,Female,19-24,CCS,BSIS,Sophomore,In a relationship,1,Yes,"Him beside me, doing or saying whatever",Very Romantic,Friendship,Maybe
+2/7/2025 23:41:35,jefsendon@my.cspc.edu.ph,Male,19-24,CCS,BSIS,Sophomore,In a relationship,1,Yes,Flowers,Moderately Romantic,Sincerity,Yes
+2/8/2025 0:48:07,saamosco@my.cspc.edu.ph,Female,19-24,CCS,BSIS,Sophomore,In a relationship,1,No,Flowers,Moderately Romantic,etc.,Maybe
+2/8/2025 3:05:58,mevillamero@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,Single,0,Yes,Flowers,Not At All Romantic,Good looks,No
+2/8/2025 5:22:25,hasalud@my.cspc.edu.ph,Female,19-24,CCS,BSIS,Sophomore,In a relationship,0,Yes,To hear “I Love You”,Moderately Romantic,Sincerity,No
+2/8/2025 5:22:54,glpocaan@my.cspc.edu.ph,Female,19-24,CCS,BSIS,Sophomore,In a relationship,1,Yes,Greeting Cards,Not At All Romantic,Humor/Fun,Maybe
+2/8/2025 5:41:27,jemacalalag@my.cspc.edu.ph,Male,25-29,CCS,BSIS,Sophomore,In a relationship,0,No,"To hear ""I Love You""",Not At All Romantic,Good looks,No
+2/8/2025 5:43:50,javelarde@my.cspc.edu.ph,Female,19-24,CCS,BSIS,Sophomore,Single,3,Yes,Flowers,Not At All Romantic,Sincerity,No
+2/8/2025 6:08:02,gilastrollo@my.cspc.edu.ph,Male,19-24,CCS,BSIS,Sophomore,In a relationship,3,No,Candy/Chocolate,Moderately Romantic,Ambition,No
+2/8/2025 6:14:30,rokathlaine@my.cspc.edu.ph,Female,19-24,CCS,BSIS,Sophomore,Single,0,They will never know!,Greeting Cards,Moderately Romantic,Sincerity,No
+2/8/2025 6:26:27,pysayson@my.cspc.edu.ph,Male,19-24,CCS,BSIS,Sophomore,Single,1,They will never know!,Flowers,Moderately Romantic,Good looks,No
+2/8/2025 6:27:12,mepoopalaretnam@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Junior,It's complicated,0,Yes,Candy/Chocolate,Moderately Romantic,Shared interest,Maybe
+2/8/2025 6:37:09,cabaita@my.cspc.edu.ph,Female,19-24,CCS,BSIS,Sophomore,Single,2,No,Candy/Chocolate,Very Romantic,Friendship,Maybe
+2/8/2025 6:41:14,jusdelossantos@my.cspc.edu.ph,Male,19-24,CCS,BSCS,Senior,Single,1,Yes,Flowers,Not At All Romantic,Humor/Fun,No
+2/8/2025 6:46:57,shtalagtag@my.cspc.edu.ph,Female,19-24,CCS,BSIS,Sophomore,Single,2,Yes,to be loved,Not At All Romantic,"looks, romance, shared interest, intelligence ",No
+2/8/2025 6:50:48,roquite@my.cspc.edu.ph,Female,19-24,CCS,BSCS,Sophomore,Single,0,They will never know!,Flowers,Not At All Romantic,Good looks,Maybe
+2/8/2025 6:51:09,anorante@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Sophomore,Single,2,Yes,Greeting Cards,Not At All Romantic,Humor/Fun,Yes
+2/8/2025 6:54:51,remartinez@my.cspc.edu.ph,Female,19-24,CCS,BSCS,Sophomore,In a relationship,1,Yes,Flowers,Very Romantic,Sincerity,Maybe
+2/8/2025 7:19:38,chfilio@my.cspc.edu.ph,Male,19-24,CCS,BSCS,Senior,It's complicated,7,Yes,"To hear ""I Love You""",Moderately Romantic,Sincerity,Yes
+2/8/2025 7:38:08,rhsanglay@my.cspc.edu.ph,Female,19-24,CCS,BSCS,Sophomore,Single,3,They will never know!,Flowers,Very Romantic,Sincerity,No
+2/8/2025 7:39:51,nhbenosa@my.cspc.edu.ph,Male,19-24,CCS,BSCS,Sophomore,Single,1,They will never know!,Candy/Chocolate,Moderately Romantic,Humor/Fun,Maybe
+2/8/2025 7:58:02,naastibe@my.cspc.edu.ph,Male,19-24,CCS,BSCS,Sophomore,Single,1,No,Flowers,Moderately Romantic,Sincerity,Maybe
+2/8/2025 8:18:47,julpontanares@my.cspc.edu.ph,Female,19-24,CCS,BSCS,Sophomore,In a relationship,0,Yes,Anything.,Moderately Romantic,Sincerity,Yes
+2/8/2025 8:24:05,mamoico@my.cspc.edu.ph,Female,19-24,CCS,BSCS,Sophomore,Single,0,No,Greeting Cards,Moderately Romantic,Intelligence,Maybe
+2/8/2025 8:27:37,tiolivares@my.cspc.edu.ph,Female,19-24,CCS,BSCS,Sophomore,Single,0,No,Romantic Dinners/Getaways,Not At All Romantic,Friendship,Maybe
+2/8/2025 8:49:06,c-lavapie@my.cspc.edu.ph,Male,19-24,CCS,BSCS,Sophomore,Single,0,No,Ewan ko,Not At All Romantic,Intelligence,Maybe
+2/8/2025 8:56:57,capoopalaretnam@my.cspc.edu.ph,Male,19-24,CCS,BSCS,Sophomore,Single,0,Yes,Flowers,Moderately Romantic,Shared interest,Maybe
+2/8/2025 9:37:19,arsurio@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Junior,Single,2,No,Flowers,Moderately Romantic,Intelligence,Maybe
+2/8/2025 10:09:58,rubelgado@my.cspc.edu.ph,Female,19-24,CCS,BSCS,Junior,Single,0,They will never know!,Greeting Cards,Moderately Romantic,Shared interest,Maybe
+2/8/2025 10:14:46,caepres@my.cspc.edu.ph,Female,19-24,CCS,BSCS,Junior,In a relationship,0,They will never know!,Greeting Cards,Moderately Romantic,Shared interest,No
+2/8/2025 10:33:03,jabobares@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Sophomore,Single,3,Yes,Flowers,Not At All Romantic,Sincerity,Maybe
+2/8/2025 10:37:50,ccserrano@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,In a relationship,4,Yes,To hear “I Love You”,Very Romantic,Sincerity,Maybe
+2/8/2025 10:41:11,mamatubis@my.cspc.edu.ph,Female,19-24,CCS,BSCS,Junior,In a relationship,1,No,Romantic Dinners/Getaways,Moderately Romantic,Shared interest,Maybe
+2/8/2025 10:43:02,maumacam@my.cspc.edu.ph,Male,19-24,CCS,BSCS,Sophomore,It's complicated,2,No,Rough anek,Very Romantic,Malaking anek,No
+2/8/2025 10:44:28,anescuro@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,In a relationship,1,Yes,Romantic Dinners/Getaways,Moderately Romantic,Sincerity,Maybe
+2/8/2025 10:51:59,gwbuenconsejo@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,Single,0,They will never know!,Greeting Cards,Not At All Romantic,Sincerity,No
+2/8/2025 14:22:05,grfroyalde@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Senior,Single,3,They will never know!,"Jowa? Pass. Ang gusto ko lang ngayong Valentine’s Day, makita si Haerin. Yung sa inyo? Stress lang ‘yan",Not At All Romantic,Wala sa listahan eh. Ang pinakaimportante… dapat si Haerin siya.,No
+2/8/2025 15:00:47,hadancalan@my.cspc.edu.ph,Female,19-24,CCS,BLIS,Junior,In a relationship,0,Yes,Flowers,Moderately Romantic,Ambition,Maybe
+2/8/2025 18:06:26,diaurellano@my.cspc.edu.ph,Male,16-18,CCS,BSCS,Junior,Single,2,Yes,me,Not At All Romantic,Intelligence,No
+2/8/2025 20:21:11,anrancapollo@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,In a relationship,2,They will never know!,Flowers,Moderately Romantic,Sensitivity,Maybe
+2/8/2025 21:08:12,jetapit@my.cspc.edu.ph,Male,19-24,CCS,BSCS,Junior,In a relationship,0,No,Romantic Dinners/Getaways,Moderately Romantic,All of the above.,No
+2/8/2025 21:32:10,jucoralde@my.cspc.edu.ph,Female,19-24,CAS,BAELS,Senior,In a relationship,0,No,Romantic Dinners/Getaways,Moderately Romantic,Sincerity,Yes
+2/8/2025 21:43:01,chlibrando@my.cspc.edu.ph,Female,19-24,CAS,BAELS,Senior,Single,0,No,Jewelry,Moderately Romantic,Sincerity,Maybe
+2/9/2025 12:12:08,nevalle@my.cspc.edu.ph,Female,19-24,CCS,BSCS,Junior,Single,0,No,Flowers,Not At All Romantic,Intelligence,No
+2/9/2025 20:27:38,mairomaraog@my.cspc.edu.ph,Female,19-24,CCS,BSCS,Junior,In a relationship,6,They will never know!,Flowers,Not At All Romantic,Intelligence,Yes
+2/10/2025 8:53:45,anbernaldez@my.cspc.edu.ph,Female,19-24,CEA,BSCE,Freshmen,Single,1,No,Flowers,Moderately Romantic,Sincerity,Maybe
+2/10/2025 9:18:46,jodelarosa@my.cspc.edu.ph,Male,19-24,CHS,BSN,Junior,Single,3,Yes,Flowers,Not At All Romantic,Humor/Fun,Maybe
+2/10/2025 10:02:31,pasantor@my.cspc.edu.ph,Female,19-24,CCS,BSIS,Sophomore,In a relationship,1,Yes,him,Moderately Romantic,Ambition,Maybe
+2/10/2025 13:23:13,jumontenegro@my.cspc.edu.ph,Female,16-18,CEA,BSCE,Freshmen,In a relationship,1,They will never know!,hand written letter ,Moderately Romantic,Sincerity,Yes
+2/10/2025 13:25:59,jalandagan@my.cspc.edu.ph,Female,16-18,CEA,BSArchi,Freshmen,Single,1,No,good governance,Moderately Romantic,"Empathy, Integrity, & Open-mindedness",No
+2/10/2025 13:28:59,mapalenzuela@my.cspc.edu.ph,Male,16-18,CEA,BSCE,Freshmen,Single,1,Yes,Flowers,Not At All Romantic,Ambition,No
+2/10/2025 13:30:54,marvega@my.cspc.edu.ph,Male,19-24,CEA,BSCE,Freshmen,Single,1,Yes,"Idk, I don't have one",Moderately Romantic,wala pa sa isip ko yan rn,Maybe
+2/10/2025 13:31:35,alcerillo@my.cspc.edu.ph,Female,19-24,CEA,BSCE,Freshmen,Single,1,No,Flowers,Not At All Romantic,Humor/Fun,Maybe
+2/10/2025 13:32:20,sesombrero@my.cspc.edu.ph,Male,19-24,CEA,BSArchi,Freshmen,Single,1,No,good governance,Not At All Romantic,Intelligence,No
+2/10/2025 13:33:56,somelissa@my.cspc.edu.ph,Female,19-24,CEA,BSComEng,Sophomore,Single,4,No,Greeting Cards,Not At All Romantic,Sincerity,No
+2/10/2025 13:34:51,johnllagas@my.cspc.edu.ph,Male,16-18,CEA,BSComEng,Sophomore,Single,0,Yes,Flowers,Very Romantic,Good looks,Yes
+2/10/2025 13:35:00,johnnacario@my.cspc.edu.ph,Male,19-24,CEA,BSComEng,Freshmen,Single,1,Yes,Romantic Dinners/Getaways,Very Romantic,Intelligence,Yes
+2/10/2025 13:35:48,lolleno@my.cspc.edu.ph,Male,19-24,CEA,BSComEng,Sophomore,Single,0,No,Candy/Chocolate,Not At All Romantic,Shared interests,Maybe
+2/10/2025 13:37:55,stcabaltera@my.cspc.edu.ph,Male,19-24,CEA,BSComEng,Freshmen,In a relationship,6,They will never know!,Ako.,Moderately Romantic,"Shared Interest, Humor/Fun, Sincerity!",Maybe
+2/10/2025 13:40:48,jaobero@my.cspc.edu.ph,Male,19-24,CEA,BSComEng,Sophomore,Single,0,No,"To Hear ""I Love You""",Moderately Romantic,Sincerity,Maybe
+2/10/2025 13:41:55,frasabularse@my.cspc.edu.ph,Female,16-18,CEA,BSArchi,Freshmen,Single,2,No,Romantic Dinners/Getaways,Not At All Romantic,Sincerity,No
+2/10/2025 13:42:59,brberina@my.cspc.edu.ph,Male,19-24,CEA,BSCE,Freshmen,Single,0,No,Candy/Chocolate,Not At All Romantic,Shared interests,Maybe
+2/10/2025 13:43:10,danasol@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Freshmen,Single,2,No,N/A,Moderately Romantic,Humor/Fun,Maybe
+2/10/2025 13:43:51,vlpili@my.cspc.edu.ph,Male,19-24,CCS,BSCS,Junior,In a relationship,1,They will never know!,Romantic Dinners/Getaways,Very Romantic,Shared interest,Yes
+2/10/2025 13:47:34,aionoya@my.cspc.edu.ph,Female,19-24,CEA,BSComEng,Sophomore,In a relationship,0,They will never know!,Greeting Cards,Not At All Romantic,Sincerity,No
+2/10/2025 13:51:13,franramos@my.cspc.edu.ph,Male,19-24,CEA,BSComEng,Sophomore,It's complicated,5,Yes,Flowers,Moderately Romantic,Intelligence,Maybe
+2/10/2025 13:54:11,dodelima@my.cspc.edu.ph,Male,19-24,CCS,BSCS,Junior,Single,0,No,K-pop Merchandise,Not At All Romantic,Character,Maybe
+2/10/2025 13:54:16,erolmeda@my.cspc.edu.ph,Female,19-24,CEA,BSComEng,Freshmen,Single,0,Yes,Flowers,Very Romantic,Shared interests,Yes
+2/10/2025 13:54:46,trrodriguez@my.cspc.edu.ph,Female,19-24,CEA,BSComEng,Freshmen,Single,2,No,K-pop Merchandise,Moderately Romantic,Sensitivity,Maybe
+2/10/2025 14:02:58,johperfecto@my.cspc.edu.ph,Male,16-18,CTDE,BTVTEd,Freshmen,Single,2,No,Effort,Not At All Romantic,Shared interests,No
+2/10/2025 14:03:23,irgada@my.cspc.edu.ph,Female,16-18,CTDE,BTVTEd,Freshmen,In relationship,2,Yes,Romantic Dinners/Getaways,Moderately Romantic,Shared interests,Yes
+2/10/2025 14:04:59,maguinoo@my.cspc.edu.ph,Male,16-18,CCS,BSIT,Freshmen,In relationship,1,No,To hear “I Love You”,Moderately Romantic,Intelligence,Maybe
+2/10/2025 14:05:41,roalog@my.cspc.edu.ph,Female,19-24,CTDE,BTVTEd,Freshmen,In relationship,2,Yes,Romantic Dinners/Getaways,Moderately Romantic,Sincerity,No
+2/10/2025 14:06:14,flenciso@my.cspc.edu.ph,Female,16-18,CTDE,BTVTEd,Freshmen,In relationship,2,No,Flowers,Not At All Romantic,Sincerity,No
+2/10/2025 14:13:47,maclores@my.cspc.edu.ph,Male,19-24,CCS,BSCS,Junior,Single,0,No,Presence,Moderately Romantic,Sincerity,Maybe
+2/10/2025 14:16:05,meacbang@my.cspc.edu.ph,Female,19-24,CTDE,BTVTEd,Freshmen,Single,0,They will never know!,Flowers,Not At All Romantic,Humor/Fun,Maybe
+2/10/2025 14:20:37,jaabel@my.cspc.edu.ph,Female,19-24,CEA,BSComEng,Sophomore,Single,2,No,Romantic Dinners/Getaways,Not At All Romantic,Sincerity,No
+2/10/2025 14:21:24,maryreyes@my.cspc.edu.ph,Female,19-24,CEA,BSComEng,Freshmen,Single,0,No,Candy/Chocolate,Not At All Romantic,Sincerity,No
+2/10/2025 14:23:10,malanuzo@my.cspc.edu.ph,Female,19-24,CTDE,BTVTEd,Freshmen,Single,0,No,Greeting Cards,Not At All Romantic,Shared interests,Maybe
+2/10/2025 14:47:00,kabarra@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Freshmen,Single,0,No,n/a,Moderately Romantic,Sincerity,No
+2/10/2025 14:53:49,chdoroin@my.cspc.edu.ph,Male,19-24,CEA,BSCE,Freshmen,In a relationship,2,Yes,Quality time and eat food somewhere with your loved ones.,Moderately Romantic,Humor/Fun,Maybe
+2/10/2025 15:01:55,migorom@my.cspc.edu.ph,Female,16-18,CEA,BSComEng,Freshmen,Single,0,No,pera,Not At All Romantic,Intelligence,No
+2/10/2025 15:13:58,docambiado@my.cspc.edu.ph,Male,19-24,CEA,BSCE,Freshmen,In a relationship,1,Yes,Flowers,Very Romantic,Sincerity,Maybe
+2/10/2025 15:53:00,chcanoa@my.cspc.edu.ph,Female,19-24,CTDE,BTVTEd,Freshmen,Single,2,No,Flowers,Very Romantic,Humor/Fun,Yes
+2/10/2025 17:01:22,jobandin@my.cspc.edu.ph,Male,19-24,CEA,BSME,Junior,Single,2,No,Flowers,Not At All Romantic,Shared interests,Maybe
+2/10/2025 17:54:54,shllabres@my.cspc.edu.ph,Female,19-24,CEA,BSCE,Freshmen,It's complicated,0,No,Flowers,Very Romantic,Sincerity,Yes
+2/10/2025 18:58:45,juturalde@my.cspc.edu.ph,Male,19-24,CCS,BSIS,Junior,It’s complicated,3,Yes,Romantic Dinners/Getaways,Moderately Romantic,Friendship,No
+2/10/2025 19:17:45,fecerilo@my.cspc.edu.ph,Male,19-24,CCS,BSIS,Junior,Single,2,Yes,To hear “I Love You”,Not At All Romantic,Good looks,No
+2/10/2025 19:35:55,jasermona@my.cspc.edu.ph,Male,19-24,CTDE,BTVTEd,Freshmen,Single,1,Yes,To hear “I Love You”,Not At All Romantic,Sincerity,No
+2/10/2025 19:36:44,anjacol@my.cspc.edu.ph,Female,19-24,CEA,BSECE,Junior,It's complicated,3,No,Flowers,Not At All Romantic,Sincerity,Maybe
+2/10/2025 19:40:41,migolleres@my.cspc.edu.ph,Male,16-18,CTDE,BTVTEd,Freshmen,In relationship,3,Yes,To hear “I Love You”,Very Romantic,Shared interests,Maybe
+2/10/2025 19:44:54,jollabres@my.cspc.edu.ph,Male,19-24,CEA,BSECE,Junior,In a relationship,0,Yes,Candy/Chocolate,Moderately Romantic,Sincerity,Maybe
+2/10/2025 20:16:47,jahernandez@my.cspc.edu.ph,Male,19-24,CEA,BSME,Junior,Single,4,No,Flowers,Not At All Romantic,Friendship,Maybe
+2/10/2025 20:21:07,bedaza@my.cspc.edu.ph,Male,19-24,CEA,BSME,Senior,Single,3,Yes,Romantic Dinners/Getaways,Moderately Romantic,Shared interests,Maybe
+2/10/2025 20:26:02,chcomot@my.cspc.edu.ph,Male,19-24,CEA,BSEE,Junior,It's complicated,2,No,"To Hear ""I Love You""",Moderately Romantic,Humor/Fun,Maybe
+2/10/2025 20:27:28,gllee@my.cspc.edu.ph,Female,19-24,CEA,BSArchi,Freshmen,Single,1,No,"books, books, books, BOOOOKKKSS!!! puwede rin Techpen HAHAHAHAHA",Not At All Romantic,Sincerity,Maybe
+2/10/2025 20:28:37,hesaquido@my.cspc.edu.ph,Female,16-18,CEA,BSArchi,Freshmen,In a relationship,0,No,Romantic Dinners/Getaways,Moderately Romantic,Sincerity,No
+2/10/2025 20:29:38,misarit@my.cspc.edu.ph,Male,19-24,CEA,BSArchi,Freshmen,Single,1,Yes,mass date,Moderately Romantic,Intelligence,Yes
+2/10/2025 20:37:24,t-brimbuela@my.cspc.edu.ph,Male,16-18,CEA,BSME,Freshmen,Single,2,No,Flowers,Moderately Romantic,Shared interests,Maybe
+2/10/2025 20:46:59,jopadayao@my.cspc.edu.ph,Male,19-24,CEA,BSArchi,Freshmen,Single,0,Yes,Romantic Dinners/Getaways,Not At All Romantic,Humor/Fun,Maybe
+2/10/2025 20:47:41,larodrigo@my.cspc.edu.ph,Female,19-24,CEA,BSArchi,Freshmen,Single,0,No,Flowers,Not At All Romantic,Shared interests,No
+2/10/2025 20:49:33,mariaarcilla@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,In a relationship,2,Yes,Flowers,Moderately Romantic,Ambition,Yes
+2/10/2025 21:02:33,jeteoxon@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,In a relationship,1,Yes,eating street food together,Moderately Romantic,Sincerity,Yes
+2/10/2025 21:06:42,kyclado@my.cspc.edu.ph,Male,19-24,CEA,BSArchi,Freshmen,In a relationship,6,No,"Sincere efforts, time together, and romantic talks",Very Romantic,"Good behavior, caring, sweet, and intelligent ",Maybe
+2/10/2025 21:08:19,trbasbas@my.cspc.edu.ph,Female,19-24,CEA,BSArchi,Freshmen,Single,0,No,"White flower, Katinko, Tiger Balm, Vicks vaporub",Not At All Romantic,Shared interests,No
+2/10/2025 21:11:06,isorias@my.cspc.edu.ph,Female,16-18,CTDE,BTVTEd,Freshmen,In relationship,0,They will never know!,Only Her po is enough ,Moderately Romantic,Humor/Fun,No
+2/10/2025 21:18:43,jhcuerdo@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Junior,In a relationship,3,Yes,Flowers,Moderately Romantic,Humor/Fun,Maybe
+2/10/2025 21:25:56,argallarte@my.cspc.edu.ph,Female,16-18,CEA,BSArchi,Freshmen,Single,1,Yes,Presence,Not At All Romantic,Sincerity,No
+2/10/2025 21:36:51,susaburnido@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,Single,3,They will never know!,Greeting Cards,Not At All Romantic,Intelligence,Maybe
+2/10/2025 21:38:22,kebermido@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Junior,Single,1,They will never know!,Greeting Cards,Not At All Romantic,Shared interests,Maybe
+2/10/2025 21:40:48,dinolasco@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Junior,It’s complicated,3,They will never know!,Romantic Dinners/Getaways,Moderately Romantic,Sincerity,Maybe
+2/10/2025 21:52:29,jabalane@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,Single,1,Yes,Kiss,Not At All Romantic,Good looks,No
+2/10/2025 21:58:30,wasolera@my.cspc.edu.ph,Male,19-24,CTDE,BTVTEd,Freshmen,Single,0,They will never know!,"Ang Love na isang imagination, At Ang You ng isang nilalang na hindi tutuo",Not At All Romantic,Shared interests,No
+2/10/2025 22:28:17,crsantiago@my.cspc.edu.ph,Female,19-24,CEA,BSComEng,Freshmen,In a relationship,2,No,Greeting Cards,Moderately Romantic,Humor/Fun,No
+2/10/2025 22:30:57,joduliente@my.cspc.edu.ph,Male,19-24,CEA,BSComEng,Freshmen,Single,0,They will never know!,N/A,Moderately Romantic,All of the above,Maybe
+2/11/2025 9:46:52,marcabaltera@my.cspc.edu.ph,Female,16-18,CEA,BSArchi,Freshmen,Single,0,No,Flowers,Not At All Romantic,Shared interests,Maybe
+2/11/2025 10:46:16,jooltiveros@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Sophomore,In relationship,2,They will never know!,Kahit ano,Moderately Romantic,Lahat ng nasa kanya,No
+2/11/2025 12:33:16,kuzabala@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Sophomore,Single,0,No,cuddle,Very Romantic,Inner Beauty,Maybe
+2/11/2025 12:54:27,macambronero@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,In relationship,0,No,Romantic Dinners/Getaways,Moderately Romantic,Ambition,Maybe
+2/11/2025 12:54:52,iatipanero@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Junior,Single,1,Yes,Flowers,Very Romantic,Humor/Fun,Yes
+2/11/2025 13:03:26,sydasmarinas@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,Single,1,No,Romantic Dinners/Getaways,Very Romantic,Friendship,Yes
+2/11/2025 14:10:31,jelanuzo@my.cspc.edu.ph,Female,19-24,CCS,BSCS,Sophomore,Single,0,No,Hugs and headpats (with tender loving care????),Not At All Romantic,Intelligence,Maybe
+2/11/2025 14:44:30,jaavila@my.cspc.edu.ph,Male,19-24,CEA,BSME,Senior,Single,5,No,Romantic Dinners/Getaways,Moderately Romantic,Sensitivity,Maybe
+2/11/2025 14:50:52,anabayog@my.cspc.edu.ph,Female,16-18,CCS,BLIS,Freshmen,Single,0,No,Greeting Cards,Moderately Romantic,Sincerity,Yes
+2/11/2025 14:56:14,annantes@my.cspc.edu.ph,Female,19-24,CCS,BLIS,Freshmen,In relationship,2,Yes,Flowers,Very Romantic,Sincerity,Yes
+2/11/2025 14:57:02,roshertez@my.cspc.edu.ph,Female,19-24,CCS,BLIS,Freshmen,In relationship,1,Yes,Flowers,Very Romantic,Ambition,Yes
+2/11/2025 14:57:15,anpenolio@my.cspc.edu.ph,Female,19-24,CCS,BLIS,Freshmen,Single,0,Yes,Flowers,Very Romantic,Ambition,Yes
+2/11/2025 14:58:03,jeobrero@my.cspc.edu.ph,Female,16-18,CCS,BLIS,Freshmen,Single,0,Yes,Greeting Cards,Moderately Romantic,Sincerity,Yes
+2/11/2025 14:59:16,niramos@my.cspc.edu.ph,Female,19-24,CCS,BLIS,Freshmen,In relationship,0,No,Flowers,Not At All Romantic,Humor/Fun,Maybe
+2/11/2025 14:59:31,betataro@my.cspc.edu.ph,Male,19-24,CEA,BSME,Senior,Single,0,Yes,Candy/Chocolate,Not At All Romantic,Just general attraction,No
+2/11/2025 14:59:50,misalcedo@my.cspc.edu.ph,Female,19-24,CCS,BLIS,Freshmen,Single,2,Yes,Greeting Cards,Moderately Romantic,Intelligence,Yes
+2/11/2025 15:00:43,jacabaltera@my.cspc.edu.ph,Female,16-18,CCS,BLIS,Freshmen,Single,0,They will never know!,Flowers,Not At All Romantic,Friendship,No
+2/11/2025 15:00:45,cavillaflor@my.cspc.edu.ph,Female,19-24,CCS,BLIS,Freshmen,In relationship,1,Yes,To hear “I Love You”,Very Romantic,Sincerity,Maybe
+2/11/2025 15:02:58,tragnas@my.cspc.edu.ph,Female,16-18,CCS,BLIS,Freshmen,Single,1,Yes,Greeting Cards,Moderately Romantic,Good looks,Maybe
+2/11/2025 15:06:34,arababao@my.cspc.edu.ph,Male,19-24,CCS,BLIS,Freshmen,Single,1,No,Flowers,Not At All Romantic,Shared interests,Yes
+2/11/2025 15:06:51,jhmagsusi@my.cspc.edu.ph,Female,16-18,CCS,BLIS,Freshmen,In relationship,10 or more,Yes,To hear “I Love You”,Not At All Romantic,Intelligence,Yes
+2/11/2025 15:11:41,angaring@my.cspc.edu.ph,Female,19-24,CCS,BLIS,Freshmen,Single,0,Yes,Flowers,Moderately Romantic,Shared interests,Yes
+2/11/2025 15:13:53,jubellen@my.cspc.edu.ph,Female,16-18,CCS,BLIS,Freshmen,It’s complicated,1,No,Greeting Cards,Moderately Romantic,Sensitivity,No
+2/11/2025 15:17:14,qacaramat@my.cspc.edu.ph,Male,19-24,CEA,BSME,Senior,Single,0,Yes,5 paper printed with Philippine Eagle at the front and a pearl at the back,Very Romantic,All of the above. Bale sampu sila. Joke lang ✌️.,Maybe
+2/11/2025 15:22:47,racloribel@my.cspc.edu.ph,Female,16-18,CAS,BSdevCom,Freshmen,Single,1,No,K-pop Merchandise,Very Romantic,Maturity,Maybe
+2/11/2025 15:29:04,legimena@my.cspc.edu.ph,Male,19-24,CCS,BLIS,Junior,Single,0,No,I don't know anything is fine,Not At All Romantic,"Comforting, Understanding, Caring & Genuine",Maybe
+2/11/2025 15:31:02,clcepe@my.cspc.edu.ph,Male,16-18,CCS,BSIS,Freshmen,In relationship,1,Yes,To hear “I Love You”,Moderately Romantic,Sincerity,Yes
+2/11/2025 15:31:40,niaolivares@my.cspc.edu.ph,Female,19-24,CCS,BLIS,Sophomore,In relationship,0,They will never know!,Flowers,Moderately Romantic,Friendship,Yes
+2/11/2025 15:31:42,krtevar@my.cspc.edu.ph,Female,16-18,CCS,BSIS,Freshmen,In relationship,1,Yes,Flowers,Moderately Romantic,Humor/Fun,Maybe
+2/11/2025 15:33:27,itramos@my.cspc.edu.ph,Female,19-24,CCS,BSIS,Freshmen,In relationship,0,Yes,Flowers,Very Romantic,Humor/Fun,Yes
+2/11/2025 15:39:44,darillas@my.cspc.edu.ph,Female,19-24,CCS,BLIS,Sophomore,In relationship,3,Yes,To hear “I Love You”,Moderately Romantic,Sincerity,Yes
+2/11/2025 15:39:54,katcailao@my.cspc.edu.ph,Female,16-18,CCS,BSIS,Freshmen,In relationship,1,No,Greeting Cards,Moderately Romantic,Sensitivity,No
+2/11/2025 15:48:19,gemartinez@my.cspc.edu.ph,Male,19-24,CCS,BLIS,Sophomore,Married,10 or more,Yes,Money,Very Romantic,Money,Maybe
+2/11/2025 15:54:15,ysblazo@my.cspc.edu.ph,Female,19-24,CAS,BSdevCom,Freshmen,Single,0,Yes,Greeting Cards,Not At All Romantic,Intelligence,Maybe
+2/11/2025 15:55:22,rbayrante@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Sophomore,In a relationship,0,They will never know!,Flowers,Not At All Romantic,Romance,Yes
+2/11/2025 15:55:51,ansasutona@my.cspc.edu.ph,Female,16-18,CCS,BSIS,Freshmen,Single,1,They will never know!,Romantic Dinners/Getaways,Moderately Romantic,Intelligence,Maybe
+2/11/2025 15:56:13,andamparado@my.cspc.edu.ph,Female,16-18,CCS,BLIS,Freshmen,In relationship,1,Yes,Flowers,Moderately Romantic,Sincerity,Yes
+2/11/2025 16:07:17,shportugal@my.cspc.edu.ph,Female,16-18,CCS,BSIS,Freshmen,Single,0,No,greeting happy birthday ,Not At All Romantic,Good looks,Maybe
+2/11/2025 16:25:39,airdevera@my.cspc.edu.ph,Female,19-24,CCS,BLIS,Senior,In relationship,10 or more,They will never know!,Milk&diaper for my babies 🫶,Very Romantic,Shared interests,Maybe
+2/11/2025 16:26:49,mahona@my.cspc.edu.ph,Female,19-24,CCS,BLIS,Senior,Single,0,They will never know!,Flowers,Not At All Romantic,Shared interests,Maybe
+2/11/2025 16:28:27,mapapa@my.cspc.edu.ph,Female,19-24,CCS,BLIS,Senior,Single,0,No,Handwritten Letters,Not At All Romantic,Sincerity,No
+2/11/2025 16:33:06,krtalagtag@my.cspc.edu.ph,Female,19-24,CCS,BLIS,Senior,In relationship,1,Yes,Flowers,Moderately Romantic,Sincerity,Maybe
+2/11/2025 17:04:28,roocampo@my.cspc.edu.ph,Female,19-24,CCS,BLIS,Senior,Single,0,No,Money,Moderately Romantic,Sincerity,Maybe
+2/11/2025 17:50:49,allacbang@my.cspc.edu.ph,Female,19-24,CCS,BLIS,Freshmen,Single,1,Yes,Flowers,Moderately Romantic,Sincerity,Yes
+2/11/2025 18:08:22,saranido@my.cspc.edu.ph,Female,19-24,CHS,BSN,Junior,Single,3,Yes,Greeting Cards,Not At All Romantic,Sincerity,Maybe
+2/11/2025 18:16:02,zonavales@my.cspc.edu.ph,Female,19-24,CHS,BSN,Junior,Single,1,Yes,Romantic Dinners/Getaways,Not At All Romantic,Intelligence,Yes
+2/11/2025 18:39:40,lalopez@my.cspc.edu.ph,Female,16-18,CEA,BSArchi,Freshmen,In a relationship,1,No,his presence ,Moderately Romantic,Sincerity,Maybe
+2/11/2025 18:41:35,uzserrano@my.cspc.edu.ph,Male,19-24,CEA,BSECE,Sophomore,Friendzone,0,They will never know!,Candy/Chocolate,Not At All Romantic,Shared interests,Maybe
+2/11/2025 18:51:29,repimentel@my.cspc.edu.ph,Male,19-24,CCS,BSIS,Freshmen,In relationship,5,Yes,Flowers,Very Romantic,Sincerity,Yes
+2/11/2025 18:52:06,aiduran@my.cspc.edu.ph,Male,19-24,CHS,BSN,Junior,Single,0,No,,Not At All Romantic,Other (Please Specify),Maybe
+2/11/2025 18:55:01,hacuadra@my.cspc.edu.ph,Male,19-24,CCS,BSCS,Junior,Single,1,No,"Love, Care, and Attention",Moderately Romantic,Shared interests,Yes
+2/11/2025 18:55:46,johnsanchez@my.cspc.edu.ph,Male,19-24,CEA,BSEE,Sophomore,Single,2,Yes,Flowers,Moderately Romantic,Shared interests,No
+2/11/2025 19:14:15,nibluza@my.cspc.edu.ph,Female,19-24,CEA,BSEE,Sophomore,In a relationship,2,Yes,Romantic Dinners/Getaways,Moderately Romantic,Humor/Fun,No
+2/11/2025 21:42:04,anrellora@my.cspc.edu.ph,Female,19-24,CHS,BSN,Junior,In a relationship,5,Yes,Flowers,Moderately Romantic,Sincerity,Maybe
+2/12/2025 5:38:02,chsalalima@my.cspc.edu.ph,Female,19-24,CAS,BSdevCom,Senior,Single,0,No,Jewelry,Not At All Romantic,Ambition,No
+2/12/2025 6:26:47,anbelgrado@my.cspc.edu.ph,Female,19-24,CTDE,BPEd,Senior,In relationship,2,Yes,Flowers,Moderately Romantic,Intelligence,Yes
+2/12/2025 8:10:01,jubermudo@my.cspc.edu.ph,Female,19-24,CHS,BSN,Junior,It’s complicated,1,No,Other (Please Specify),Very Romantic,Intelligence,No
+2/12/2025 8:52:43,jarosales@my.cspc.edu.ph,Female,19-24,CCS,BSCS,Junior,In a relationship,1,No,To hear “I Love You”,Not At All Romantic,Sincerity,Maybe
+2/12/2025 9:14:06,heavila@my.cspc.edu.ph,Male,19-24,CCS,BSCS,Junior,Married,0,They will never know!,Flowers,Moderately Romantic,Good looks,No
+2/12/2025 10:05:54,nipapa@my.cspc.edu.ph,Male,19-24,CCS,BSCS,Junior,In a relationship,0,No,Not a materialistic person,Moderately Romantic,Shared interest,No
+2/12/2025 11:01:51,marcleofe@my.cspc.edu.ph,Male,19-24,CCS,BSCS,Junior,Single,1,Yes,Romantic Dinners/Getaways,Very Romantic,Sincerity,Maybe
+2/12/2025 11:06:57,seoronan@my.cspc.edu.ph,Female,19-24,CCS,BSCS,Sophomore,Single,2,Yes,"Time, effort and love",Moderately Romantic,Sincerity,Maybe
+2/12/2025 11:16:04,hapalacios@my.cspc.edu.ph,Male,19-24,CCS,BSCS,Sophomore,Single,0,No,Romantic Dinners/Getaways,Not At All Romantic,Intelligence,Maybe
+2/12/2025 11:46:11,velavapie@my.cspc.edu.ph,Male,19-24,CCS,BSCS,Sophomore,Single,1,Yes,Flowers,Moderately Romantic,Shared interest,Maybe
+2/12/2025 12:12:17,addaduya@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Sophomore,Single,1,They will never know!,Candy/Chocolate,Moderately Romantic,Shared interest,No
+2/12/2025 12:14:46,joobiasca@my.cspc.edu.ph,Male,25-29,CCS,BSIT,Junior,In a relationship,1,No,Flowers,Moderately Romantic,Sincerity,No
+2/12/2025 12:15:21,mazaballa@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,In a relationship,2,No,Flowers,Moderately Romantic,Humor/Fun,Maybe
+2/12/2025 12:15:52,cypandes@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,Single,1,No,Greeting Cards,Moderately Romantic,Sincerity,No
+2/12/2025 12:16:03,jeillanza@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,Single,0,They will never know!,Flowers,Not At All Romantic,Humor/Fun,Maybe
+2/12/2025 12:16:19,jacervas@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,In a relationship,0,Yes,Flowers,Moderately Romantic,Sincerity,Maybe
+2/12/2025 12:16:21,javilla@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Junior,In a relationship,1,No,Flowers,Moderately Romantic,Sincerity,Maybe
+2/12/2025 12:17:11,milandagan@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,In a relationship,1,Yes,Flowers,Very Romantic,Romance,Maybe
+2/12/2025 12:18:28,edtominio@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Junior,Single,2,No,Flowers,Moderately Romantic,Shared interest,Yes
+2/12/2025 12:18:31,jaajero@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,Single,0,Yes,K-pop Merchandise,Not At All Romantic,Shared interest,No
+2/12/2025 12:18:35,marcatorce@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Junior,Single,1,They will never know!,"To hear ""I Love You""",Moderately Romantic,Shared interest,No
+2/12/2025 12:19:39,mivelitario@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,Single,0,No,none,Not At All Romantic,none,No
+2/12/2025 12:28:18,camaranion@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Senior,Single,0,Yes,Flowers,Moderately Romantic,Friendship,Maybe
+2/12/2025 12:28:47,meayala@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,In a relationship,5,Yes,Flowers,Moderately Romantic,Humor/Fun,Maybe
+2/12/2025 12:29:11,mhmagistrado@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,Single,0,No,Candy/Chocolate,Not At All Romantic,Intelligence,Maybe
+2/12/2025 12:31:01,jacomploma@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,In a relationship,0,They will never know!,To hear “I Love You”,Moderately Romantic,Humor/Fun,No
+2/12/2025 12:32:58,zigarin@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Junior,In a relationship,1,Yes,Romantic Dinners/Getaways,Moderately Romantic,All of the above,Maybe
+2/12/2025 12:33:11,crtucay@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Junior,Single,2,No,K-pop Merchandise,Not At All Romantic,Sincerity,No
+2/12/2025 12:33:42,felegaspe@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Senior,In a relationship,10 and more,Yes,Flowers,Moderately Romantic,Humor/Fun,Yes
+2/12/2025 12:34:38,haramoyan@my.cspc.edu.ph,Male,19-24,CCS,BSIT,Senior,In a relationship,0,Yes,Flowers,Not At All Romantic,Humor/Fun,Maybe
+2/12/2025 12:44:03,ivdoroin@my.cspc.edu.ph,Female,19-24,CCS,BSCS,Sophomore,Single,1,They will never know!,Romantic Dinners/Getaways,Moderately Romantic,Friendship,No
+2/12/2025 13:01:13,giawa@my.cspc.edu.ph,Male,19-24,CEA,BSComEng,Freshmen,Single,0,No,Flowers,Not At All Romantic,Intelligence,Maybe
+2/12/2025 13:09:50,vetale@my.cspc.edu.ph,Female,16-18,CEA,BSComEng,Freshmen,In a relationship,4,They will never know!,"To hear ""I Love You""",Moderately Romantic,Sincerity,No
+2/12/2025 13:10:50,caborillo@my.cspc.edu.ph,Male,19-24,CEA,BSComEng,Sophomore,Single,0,Yes,DIY/handmade gifts,Moderately Romantic,Shared interests,Maybe
+2/12/2025 13:33:25,joda@my.cspc.edu.ph,Female,19-24,CEA,BSME,Senior,In a relationship,2,No,Flowers,Moderately Romantic,Intelligence,No
+2/12/2025 13:35:55,jutomenio@my.cspc.edu.ph,Female,19-24,CEA,BSME,Junior,Single,0,They will never know!,"To hear ""I Love You""",Moderately Romantic,Ambition,No
+2/12/2025 13:36:05,gepanis@my.cspc.edu.ph,Male,19-24,CEA,BSME,Junior,In a relationship,5,No,Flowers,Moderately Romantic,Humor/Fun,Maybe
+2/12/2025 13:37:16,fesabas@my.cspc.edu.ph,Male,25-29,CEA,ME - ME,Freshmen,Married,6,Yes,House and lot,Very Romantic,Money,No
+2/12/2025 13:39:56,ruvillaluz@my.cspc.edu.ph,Male,19-24,CEA,BSME,Sophomore,Single,0,No,Flowers,Moderately Romantic,Humor/Fun,Maybe
+2/12/2025 13:43:34,jopenafiel@my.cspc.edu.ph,Male,19-24,CEA,BSECE,Sophomore,Single,0,They will never know!,Flowers,Moderately Romantic,Shared interests,Yes
+2/12/2025 13:44:08,sapardinas@my.cspc.edu.ph,Female,19-24,CEA,BSECE,Sophomore,Single,0,No,Candy/Chocolate,Not At All Romantic,All of the above,No
+2/12/2025 13:44:12,qubermido@my.cspc.edu.ph,Female,19-24,CEA,BSECE,Sophomore,In a relationship,1,No,"I am not that materialistic, dunno",Moderately Romantic,Sincerity,Maybe
+2/12/2025 13:46:27,zobellen@my.cspc.edu.ph,Female,19-24,CEA,BSArchi,Sophomore,In a relationship,0,Yes,Quality Time,Moderately Romantic,Sincerity,No
+2/12/2025 14:00:19,kematocinos@my.cspc.edu.ph,Female,19-24,CEA,BSME,Sophomore,In a relationship,3,No,Greeting Cards,Moderately Romantic,Intelligence,No
+2/12/2025 14:08:12,monavarra@my.cspc.edu.ph,Female,19-24,CEA,BSCE,Sophomore,Single,0,Yes,Flowers,Not At All Romantic,All of the above,Maybe
+2/12/2025 14:13:10,maayala@my.cspc.edu.ph,Female,19-24,CEA,BSCE,Sophomore,Single,3,No,Flowers,Not At All Romantic,Sincerity,Maybe
+2/12/2025 14:22:33,markagnas@my.cspc.edu.ph,Male,19-24,CEA,BSECE,Junior,In a relationship,1,Yes,Flowers,Moderately Romantic,Humor/Fun,No
+2/12/2025 14:50:03,nisaldivar@my.cspc.edu.ph,Female,19-24,CEA,BSCE,Senior,Single,0,They will never know!,Flowers,Moderately Romantic,Intelligence,No
+2/12/2025 14:50:11,dacerdon@my.cspc.edu.ph,Female,19-24,CEA,BSCE,Freshmen,In a relationship,0,Yes,Candy/Chocolate,Not At All Romantic,Shared interests,No
+2/12/2025 14:50:20,aiabano@my.cspc.edu.ph,Female,19-24,CTDE,BPEd,Junior,In relationship,1,No,Romantic Dinners/Getaways,Not At All Romantic,Sincerity,Maybe
+2/12/2025 14:51:01,atsanantonio@my.cspc.edu.ph,Female,19-24,CTDE,BTVTEd,Sophomore,In relationship,0,Yes,To hear “I Love You”,Very Romantic,Sincerity,Maybe
+2/12/2025 14:51:06,daalcantara@my.cspc.edu.ph,Female,19-24,CEA,BSCE,Senior,Single,0,No,Romantic Dinners/Getaways,Moderately Romantic,Humor/Fun,Maybe
+2/12/2025 14:51:17,juvilla@my.cspc.edu.ph,Female,19-24,CTDE,BPEd,Junior,In relationship,1,No,Flowers,Moderately Romantic,Ambition,Yes
+2/12/2025 14:51:50,anpontanares@my.cspc.edu.ph,Male,19-24,CEA,BSCE,Senior,Single,0,No,Flowers,Not At All Romantic,Shared interests,No
+2/12/2025 14:51:53,begallego@my.cspc.edu.ph,Female,19-24,CEA,BSCE,Senior,In a relationship,1,No,Candy/Chocolate,Moderately Romantic,Humor/Fun,No
+2/12/2025 14:54:49,shebonite@my.cspc.edu.ph,Female,19-24,CEA,BSCE,Senior,Single,2,No,Flowers,Very Romantic,Man of God,No
+2/12/2025 14:55:45,mabenas@my.cspc.edu.ph,Female,19-24,CTDE,BPEd,Senior,In relationship,3,No,Flowers,Moderately Romantic,Sincerity,No
+2/12/2025 14:56:56,mariortega@my.cspc.edu.ph,Female,19-24,CTDE,BTVTEd,Sophomore,Single,0,Yes,Flowers,Moderately Romantic,Intelligence,Maybe
+2/12/2025 14:58:23,risanjuan@my.cspc.edu.ph,Female,19-24,CTDE,BTVTEd,Sophomore,In relationship,2,They will never know!,Candy/Chocolate,Very Romantic,Good looks,Maybe
+2/12/2025 15:01:13,marmaniscan@my.cspc.edu.ph,Male,19-24,CTDE,BTVTEd,Junior,Single,0,Yes,Romantic Dinners/Getaways,Not At All Romantic,Humor/Fun,Maybe
+2/12/2025 15:07:36,chpili@my.cspc.edu.ph,Female,19-24,CTDE,BTVTEd,Junior,In relationship,1,Yes,Romantic Dinners/Getaways,Moderately Romantic,Sincerity,Maybe
+2/12/2025 15:10:36,sybolgado@my.cspc.edu.ph,Female,19-24,CTDE,BTVTEd,Junior,In relationship,1,No,Flowers,Not At All Romantic,Money,Maybe
+2/12/2025 15:12:04,ketaburnal@my.cspc.edu.ph,Male,19-24,CEA,BSME,Junior,In a relationship,1,No,Flowers,Moderately Romantic,Humor/Fun,Maybe
+2/12/2025 15:16:26,chsernal@my.cspc.edu.ph,Female,19-24,CTDE,BTVTEd,Junior,Single,0,No,Flowers,Very Romantic,Shared interests,Maybe
+2/12/2025 16:11:45,kytataro@my.cspc.edu.ph,Female,19-24,CTDE,BTVTEd,Sophomore,In relationship,2,Yes,Flowers,Very Romantic,Ambition,No
+2/12/2025 17:51:04,joagna@my.cspc.edu.ph,Female,19-24,CEA,BSME,Senior,Single,3,No,Flowers,Not At All Romantic,Sincerity,Maybe
+2/12/2025 17:59:17,zymalto@my.cspc.edu.ph,Female,19-24,CCS,BSIT,Sophomore,In relationship,1,Yes,"quality time, long rides",Not At All Romantic,Intelligence,Maybe
+2/12/2025 19:01:57,reregaspi@my.cspc.edu.ph,Female,19-24,CEA,BSEE,Senior,In a relationship,2,Yes,His presence ,Moderately Romantic,Humor/Fun,Maybe
+2/12/2025 19:18:51,kritorres@my.cspc.edu.ph,Female,19-24,CEA,BSEE,Junior,Single,3,They will never know!,Flowers,Not At All Romantic,Humor/Fun,No
+2/12/2025 19:44:41,chprima@my.cspc.edu.ph,Male,16-18,CEA,BSECE,Freshmen,In a relationship,1,No,"To Hear ""I Love You""",Moderately Romantic,My heart desires,Maybe
+2/12/2025 19:48:15,ivbarcebal@my.cspc.edu.ph,Female,19-24,CEA,BSECE,Freshmen,Single,3,No,Romantic Dinners/Getaways,Very Romantic,Sincerity,No
+2/12/2025 20:49:11,vaalabastro@my.cspc.edu.ph,Female,19-24,CTHBM,BSTM,Junior,In a relationship,1,They will never know!,Candy/Chocolate,Moderately Romantic,Humor/Fun,No
+2/12/2025 21:52:59,markjayagnas@my.cspc.edu.ph,Male,19-24,CEA,BSEE,,Single,0,No,Greeting Cards,Moderately Romantic,Humor/Fun,Maybe
+2/13/2025 0:48:58,robandalis@my.cspc.edu.ph,Male,19-24,CEA,BSEE,Senior,In a relationship,5,No,Romantic Dinners/Getaways,Moderately Romantic,Shared interests,Maybe
+2/13/2025 9:17:34,jomorada@my.cspc.edu.ph,Female,19-24,CTHBM,BSEntrep,Junior,In a relationship,3,Yes,Flowers,Moderately,Sensitivity,Yes
+2/13/2025 9:32:22,dinunezca@my.cspc.edu.ph,Female,19-24,CTHBM,BSEntrep,Sophomore,Friendzone,2,Yes,"To hear ""I love you""",Not at all,Ambition,No
+2/13/2025 9:32:35,jananteza@my.cspc.edu.ph,Female,19-24,CTHBM,BSEntrep,Sophomore,Single,0,Yes,Romantic Dinners / Getaways,Moderately,Ambition,No
+2/13/2025 9:35:06,joesplana@my.cspc.edu.ph,Female,19-24,CTHBM,BSEntrep,Sophomore,Single,0,Yes,Flowers,Moderately,Shared interests,Maybe
+2/13/2025 9:38:36,frsapo@my.cspc.edu.ph,Female,19-24,CTHBM,BSEntrep,Sophomore,In a relationship,Secret,Yes,Flowers,Very,Humor,Yes
+2/13/2025 9:39:57,rjsto.domingo@my.cspc.edu.ph,Male,19-24,CTHBM,BSEntrep,Sophomore,In a relationship,0,Yes,Romantic Dinners / Getaways,Moderately,Intelligence,Maybe
+2/13/2025 9:40:36,rocolinares@my.cspc.edu.ph,Female,19-24,CTHBM,BSEntrep,Sophomore,Single,1,Yes,"To hear ""I love you""",Moderately,Intelligence,No
+2/13/2025 9:46:14,jagerolao@my.cspc.edu.ph,Female,19-24,CTHBM,BSEntrep,Junior,In a relationship,1,Yes,Flowers,Moderately,Shared interests,Yes
+2/13/2025 9:48:13,chasabinorio@my.cspc.edu.ph,Female,19-24,CTHBM,BSEntrep,Junior,In a relationship,6,Yes,Flowers,Very,Humor,No
+2/13/2025 9:50:17,grmayor@my.cspc.edu.ph,Female,19-24,CTHBM,BSEntrep,Junior,Single,0,Yes,Romantic Dinners / Getaways,Moderately,Intelligence,No
+2/13/2025 9:50:53,sylorzano@my.cspc.edu.ph,Female,19-24,CTHBM,BSEntrep,Junior,Single,0,Yes,Flowers,Not at all,Sincerity,Maybe
+2/13/2025 9:52:07,krarillas@my.cspc.edu.ph,Female,19-24,CTHBM,BSHM,Junior,Single,3,Will never know,Romantic Dinners / Getaways,Moderately,Intelligence,Maybe
+2/13/2025 9:55:27,daseva@my.cspc.edu.ph,Female,19-24,CTHBM,BSEntrep,Sophomore,Single,0,Yes,Romantic Dinners / Getaways,Not at all,Good looks,Maybe
+2/13/2025 10:00:35,phpaz@my.cspc.edu.ph,Male,16-18,CEA,BSCE,Freshmen,Single,2,Yes,Flowers,Moderately Romantic,Shared interests,Maybe
+2/13/2025 10:03:37,iagaspi@my.cspc.edu.ph,Male,19-24,CEA,BSME,Junior,Single,0,No,Flowers,Not At All Romantic,Friendship,Maybe
+2/13/2025 10:14:21,jhparaiso@my.cspc.edu.ph,Female,19-24,CTHBM,BSEntrep,Senior,In a relationship,2,Yes,"To hear ""I love you""",Moderately,Shared interests,No
+2/13/2025 10:17:28,crihabana@my.cspc.edu.ph,Female,16-18,CEA,BSECE,Freshmen,Single,0,No,Flowers,Moderately Romantic,Shared interests,Maybe
+2/13/2025 10:18:12,pauabarera@my.cspc.edu.ph,Female,16-18,CEA,BSECE,Freshmen,Single,0,No,Flowers,Moderately Romantic,Intelligence,Maybe
+2/13/2025 10:20:42,ivzamudio@my.cspc.edu.ph,Female,19-24,CTHBM,BSEntrep,Sophomore,Single,0,Yes,"To hear ""I love you""",Moderately,Sincerity,Yes
+2/13/2025 10:31:03,jecadenas@my.cspc.edu.ph,Male,19-24,CTHBM,BSEntrep,Sophomore,Single,0,No,Romantic Dinners / Getaways,Not at all,Intelligence,Maybe
+2/13/2025 10:33:54,jozara@my.cspc.edu.ph,Male,19-24,CEA,BSECE,Freshmen,Single,0,No,Romantic Dinners/Getaways,Moderately Romantic,Shared interests,Maybe
+2/13/2025 11:55:29,gibata@my.cspc.edu.ph,Male,19-24,CCS,BSCS,Junior,Single,6,No,Flowers,Not At All Romantic,Intelligence,Maybe
+2/13/2025 13:19:02,gibelen@my.cspc.edu.ph,Female,19-24,CEA,BSEE,,In a relationship,3,No,Flowers,Not At All Romantic,Ambition,No
+2/13/2025 13:31:36,jeortiz@my.cspc.edu.ph,Female,19-24,CEA,BSEE,Sophomore,Single,2,Yes,Romantic Dinners/Getaways,Moderately Romantic,Shared interests,Maybe
+2/13/2025 13:32:43,altorno@my.cspc.edu.ph,Female,19-24,CEA,BSEE,Junior,Single,2,No,Flowers,Moderately Romantic,Sensitivity,Maybe
+2/13/2025 13:33:34,mevillanueva@my.cspc.edu.ph,Female,19-24,CEA,BSEE,Freshmen,Single,0,No,Romantic Dinners/Getaways,Not At All Romantic,Sincerity,No
+2/13/2025 13:34:21,johbona@my.cspc.edu.ph,Male,19-24,CEA,BSEE,Sophomore,Single,4,They will never know!,"To Hear ""I Love You""",Not At All Romantic,Shared interests,Maybe
+2/13/2025 13:34:30,clyargarin@my.cspc.edu.ph,Male,16-18,CEA,BSEE,Freshmen,Single,1,No,Flowers,Not At All Romantic,Shared interests,Maybe
+2/13/2025 13:36:00,ryobligado@my.cspc.edu.ph,Male,19-24,CEA,BSEE,Freshmen,In a relationship,4,They will never know!,Candy/Chocolate,Moderately Romantic,Sincerity,No
+2/13/2025 13:36:10,elodiaz@my.cspc.edu.ph,Female,19-24,CEA,BSEE,Freshmen,Single,0,No,Flowers,Not At All Romantic,Shared interests,No
+2/13/2025 13:37:49,cemoreno@my.cspc.edu.ph,Male,19-24,CEA,BSEE,Sophomore,Single,1,Yes,Flowers,Moderately Romantic,Sincerity,Yes
+2/13/2025 13:41:13,jonava@my.cspc.edu.ph,Male,19-24,CEA,BSEE,Sophomore,Single,2,No,Romantic Dinners/Getaways,Moderately Romantic,Sincerity,Maybe
+2/13/2025 13:46:58,rucoguiron@my.cspc.edu.ph,Female,19-24,CEA,BSEE,Senior,Single,0,No,Flowers,Not At All Romantic,Sincerity,No
+2/13/2025 13:52:22,jorodrigueza@my.cspc.edu.ph,Male,19-24,CEA,BSEE,Sophomore,Single,1,Yes,Kiss ko ( sakanya lang ),Not At All Romantic,Wag lang sisigawan mama nya sa harap ko ,No
+2/13/2025 13:57:11,jatorres@my.cspc.edu.ph,Male,19-24,CEA,BSEE,Freshmen,Single,0,They will never know!,Candy/Chocolate,Not At All Romantic,Intelligence,No
+2/13/2025 13:57:47,elpastoral@my.cspc.edu.ph,Female,19-24,CEA,BSArchi,,Single,1,No,K-pop Merchandise,Not At All Romantic,Sincerity,No
+2/13/2025 14:07:42,framarmol@my.cspc.edu.ph,Male,19-24,CEA,BSEE,Sophomore,Single,0,Yes,Romantic Dinners/Getaways,Not At All Romantic,Humor/Fun,Maybe
+2/13/2025 14:38:54,dadelgaco@my.cspc.edu.ph,Female,19-24,CTHBM,BSTM,Sophomore,In a relationship,1,Yes,Romantic Dinners / Getaways,Very,Intelligence,Maybe
+2/13/2025 14:41:04,hebillones@my.cspc.edu.ph,Female,19-24,CTHBM,BSTM,Junior,In a relationship,3,Yes,Romantic Dinners / Getaways,Moderately,Shared interests,No
+2/13/2025 14:52:30,ragonzales@my.cspc.edu.ph,Female,19-24,CTHBM,BSEntrep,Senior,In a relationship,6,Yes,"To hear ""I love you""",Moderately,Sincerity,Yes
+2/13/2025 15:20:15,raflorece@my.cspc.edu.ph,Male,19-24,CEA,BSEE,Sophomore,Single,0,Yes,"To Hear ""I Love You""",Not At All Romantic,Shared interests,Maybe
+2/13/2025 15:55:13,cacoralde@my.cspc.edu.ph,Male,19-24,CEA,BSEE,Sophomore,Single,0,No,Flowers,Moderately Romantic,Humor/Fun,Maybe
+2/13/2025 16:14:33,miibo@my.cspc.edu.ph,Female,19-24,CTHBM,BSEntrep,Senior,Single,1,No,Flowers,Moderately,Shared interests,No
+2/13/2025 16:19:28,juyu@my.cspc.edu.ph,Male,19-24,CTHBM,BSEntrep,Sophomore,Single,2,Will never know,Flowers,Moderately,Anything,Maybe
+2/13/2025 16:23:55,pasatuito@my.cspc.edu.ph,Female,19-24,CTHBM,BSEntrep,Freshmen,In a relationship,3,Yes,Candy / Chocolate,Moderately,Sincerity,Maybe
+2/13/2025 16:33:10,febanares@my.cspc.edu.ph,Male,19-24,CEA,BSEE,Sophomore,In a relationship,1,Yes,n/a,Moderately Romantic,Good looks,Yes
+2/13/2025 16:34:18,masolera@my.cspc.edu.ph,Female,19-24,CTHBM,BSHM,Senior,Single,1,Yes,K-pop Merch,Not at all,Shared interests,Maybe
+2/13/2025 16:34:19,jopelaez@my.cspc.edu.ph,Male,19-24,CTHBM,BSHM,Senior,In a relationship,1,No,Romantic Dinners / Getaways,Very,Sincerity,No
+2/13/2025 16:34:49,anpedro@my.cspc.edu.ph,Female,16-18,CTHBM,BSBA,Freshmen,Single,0,Will never know,Flowers,Moderately,Intelligence,Yes
+2/13/2025 16:42:34,jovelitario@my.cspc.edu.ph,Male,19-24,CEA,BSEE,Sophomore,In a relationship,1,Yes,Greeting Cards,Moderately Romantic,Sincerity,Yes
+2/13/2025 16:51:26,ailregalado@my.cspc.edu.ph,Female,16-18,CTHBM,BSBA,Freshmen,It's complicated,2,Yes,letters,Moderately,Intelligence,Yes
+2/13/2025 17:06:36,lofebres@my.cspc.edu.ph,Male,19-24,CEA,BSEE,Senior,In a relationship,0,Yes,Flowers,Not At All Romantic,Ambition,Yes
+2/13/2025 17:35:39,vibenamera@my.cspc.edu.ph,Female,19-24,CTHBM,BSEntrep,Freshmen,It's complicated,1,Yes,Romantic Dinners / Getaways,Moderately,Intelligence,Maybe
+2/13/2025 17:58:16,jeportugal@my.cspc.edu.ph,Male,16-18,CCS,BSIS,Freshmen,In relationship,4,Yes,Candy/Chocolate,Moderately Romantic,Intelligence,Maybe
+2/13/2025 18:47:48,armaomay@my.cspc.edu.ph,Female,16-18,CTHBM,BSEntrep,Freshmen,In a relationship,1,Yes,Jewelry,Not at all,Shared interests,Yes
+2/13/2025 19:18:47,ma.bustarga@my.cspc.edu.ph,Female,19-24,CTHBM,BSOA,Junior,Single,3,Yes,"To hear ""I love you""",Moderately,Humor,Maybe
+2/13/2025 19:19:18,francramos@my.cspc.edu.ph,Female,19-24,CTHBM,BSEntrep,Freshmen,In a relationship,1,Yes,Romantic Dinners / Getaways,Moderately,Sincerity,Maybe
+2/13/2025 19:22:58,heclavillas@my.cspc.edu.ph,Male,16-18,CEA,BSEE,Freshmen,Single,1,They will never know!,Flowers,Not At All Romantic,Shared interests,Maybe
+2/13/2025 19:23:48,phfernando@my.cspc.edu.ph,Male,19-24,CTHBM,BSEntrep,Freshmen,Single,0,Yes,"To hear ""I love you""",Moderately,Shared interests,Yes
+2/13/2025 19:32:26,maaguado@my.cspc.edu.ph,Female,19-24,CTHBM,BSEntrep,Freshmen,Single,1,Yes,Flowers,Very,Humor,Maybe
+2/13/2025 19:58:55,jecreo@my.cspc.edu.ph,Female,19-24,CTHBM,BSOA,Junior,Single,1,Yes,Flowers,Not at all,Humor,No
+2/13/2025 20:03:43,agoyales@my.cspc.edu.ph,Female,19-24,CTHBM,BSOA,Junior,In a relationship,1,Yes,Jewelry,Moderately,Intelligence,No
+2/13/2025 20:16:00,jeeustaquio@my.cspc.edu.ph,Female,19-24,CCS,,Senior,In a relationship,1,Yes,"To hear ""I love you""",Moderately,Intelligence,No
+2/13/2025 20:24:09,disoriano@my.cspc.edu.ph,Male,19-24,CTHBM,BSEntrep,Sophomore,It's complicated,1,Will never know,Flowers,Moderately,Shared interests,Yes
+2/13/2025 20:33:31,kabricia@my.cspc.edu.ph,Female,19-24,CTHBM,BSOA,Junior,In a relationship,0,Yes,Romantic Dinners / Getaways,Moderately,Sincerity,Maybe
+2/13/2025 20:49:45,frampongan@my.cspc.edu.ph,Female,19-24,CTHBM,BSEntrep,Senior,Single,5,Yes,Hand written letters,Not at all,Shared interests,Maybe
+2/13/2025 20:53:25,ercalingacion@my.cspc.edu.ph,Male,25-29,CTHBM,BSBA,Sophomore,Single,3,Yes,Romantic Dinners / Getaways,Not at all,Sincerity,No
+2/13/2025 21:03:50,laboaquina@my.cspc.edu.ph,Female,19-24,CTHBM,BSTM,Junior,Single,0,Yes,"To hear ""I love you""",Not at all,Humor,Maybe
+2/13/2025 21:07:15,jhsaldivar@my.cspc.edu.ph,Male,19-24,CTHBM,BSEntrep,Junior,In a relationship,0,Yes,Romantic Dinners / Getaways,Moderately,Sincerity,Maybe
+2/13/2025 21:10:35,kafernandez@my.cspc.edu.ph,Female,19-24,CTHBM,BSTM,Junior,In a relationship,3,Yes,"To hear ""I love you""",Not at all,respectful,Maybe
+2/13/2025 21:18:28,libenito@my.cspc.edu.ph,Female,19-24,CTHBM,BSTM,Junior,In a relationship,2,Yes,Candy / Chocolate,Moderately,Humor,Maybe
+2/13/2025 22:28:59,anibalbuena@my.cspc.edu.ph,Female,25-29,CTHBM,BSHM,Senior,In a relationship,3,Yes,Greeting Cards,Not at all,Sincerity,Maybe
+2/13/2025 22:31:38,hemasi@my.cspc.edu.ph,Female,19-24,CTHBM,BSTM,Sophomore,Single,2,Yes,Greeting Cards,Not at all,Sincerity,Maybe
+2/13/2025 22:38:34,krsilava@my.cspc.edu.ph,Female,19-24,CTHBM,BSTM,Junior,In a relationship,2,Yes,Flowers,Not at all,Intelligence,Maybe
+2/14/2025 0:55:55,masayin@my.cspc.edu.ph,Female,19-24,CTHBM,BSEntrep,Freshmen,Single,1,Yes,Flowers,Not at all,Ambition,Maybe
+2/14/2025 7:55:40,chcasin@my.cspc.edu.ph,Male,19-24,CTHBM,BSHM,Senior,Single,2,Yes,"To hear ""I love you""",Moderately,Sincerity,Maybe
+2/14/2025 8:31:11,shsasota@my.cspc.edu.ph,Female,19-24,CTHBM,BSHM,Senior,In a relationship,2,Yes,Romantic Dinners / Getaways,Moderately,Sincerity,Maybe
+2/14/2025 9:11:57,kasumpay@my.cspc.edu.ph,Female,19-24,CTHBM,BSHM,Senior,In a relationship,2,Yes,Quality time!,Moderately,Sincerity,No
+2/14/2025 10:14:34,markibarrientos@my.cspc.edu.ph,Male,19-24,CEA,BSEE,Sophomore,In a relationship,4,Yes,Flowers,Moderately Romantic,Humor/Fun,Yes
+2/14/2025 11:02:52,katantiado@my.cspc.edu.ph,Female,19-24,CTDE,BTVTEd,Sophomore,In relationship,6,Yes,Romantic Dinners/Getaways,Moderately Romantic,Humor/Fun,Yes
+2/14/2025 12:29:47,comarkjoseph@my.cspc.edu.ph,Male,19-24,CTDE,BPEd,Sophomore,Single,2,Yes,Flowers,Moderately Romantic,Humor/Fun,Yes
+2/14/2025 12:48:13,ma.cortero@my.cspc.edu.ph,Female,19-24,CTHBM,BSHM,Sophomore,In a relationship,1,Yes,"To hear ""I love you""",Very,Humor,Maybe
+2/14/2025 12:49:06,chelcano@my.cspc.edu.ph,Female,19-24,CTHBM,BSHM,Junior,In a relationship,4,Yes,Flowers,Moderately,"loyalty , kind, gentle man",No
+2/14/2025 12:51:31,maaleman@my.cspc.edu.ph,Female,19-24,CTHBM,BSHM,Junior,Single,2,Yes,Flowers,Moderately,Sincerity,Maybe
+2/14/2025 12:51:45,hodeguzman@my.cspc.edu.ph,Female,19-24,CTHBM,BSHM,Sophomore,Single,1,Yes,hand written letters,Not at all,Intelligence,No
+2/14/2025 12:52:09,anvelasco@my.cspc.edu.ph,Female,19-24,CTDE,BPEd,Junior,In relationship,1,No,To hear “I Love You”,Moderately Romantic,Humor/Fun,Maybe
+2/14/2025 12:52:19,josegovia@my.cspc.edu.ph,Male,19-24,CTHBM,BSHM,Senior,In a relationship,3,Yes,Flowers,Moderately,Sincerity,Maybe
+2/14/2025 12:52:23,ardimabayao@my.cspc.edu.ph,Female,19-24,CTDE,BPEd,Junior,Single,0,No,To hear “I Love You”,Moderately Romantic,Humor/Fun,Maybe
+2/14/2025 12:55:05,japiolino@my.cspc.edu.ph,Male,19-24,CTHBM,BSHM,Junior,In a relationship,6,Will never know,Flowers,Moderately,Intelligence,Maybe
+2/14/2025 12:55:26,cacaoile@my.cspc.edu.ph,Female,19-24,CTHBM,BSHM,Junior,It's complicated,1,Will never know,Romantic Dinners / Getaways,Not at all,Money,No
+2/14/2025 12:55:53,frtapel@my.cspc.edu.ph,Male,19-24,CTHBM,BSHM,Junior,In a relationship,5,Will never know,Romantic Dinners / Getaways,Very,All of the above,Yes
+2/14/2025 12:56:48,clrambuyong@my.cspc.edu.ph,Female,19-24,CTHBM,BSHM,Sophomore,In a relationship,2,Yes,handwritten letter,Moderately,Sincerity,Maybe
+2/14/2025 12:57:22,mamariscotes@my.cspc.edu.ph,Female,19-24,CTHBM,BSHM,Sophomore,In a relationship,1,Yes,"To hear ""I love you""",Very,Romance,Yes
+2/14/2025 12:57:54,krpadua@my.cspc.edu.ph,Female,19-24,CTHBM,BSHM,Junior,Single,2,Will never know,Romantic Dinners / Getaways,Not at all,Sincerity,Maybe
+2/14/2025 12:58:22,jadevilla@my.cspc.edu.ph,Female,19-24,CTHBM,BSHM,Junior,In a relationship,2,Yes,Candy / Chocolate,Not at all,Money,No
+2/14/2025 13:00:57,albondilles@my.cspc.edu.ph,Male,19-24,CTHBM,BSHM,Senior,Single,4,No,Jewelry,Not at all,Humor,Maybe
+2/14/2025 13:01:13,edpea@my.cspc.edu.ph,Female,19-24,CTHBM,BSHM,Senior,Single,0,Yes,Candy / Chocolate,Not at all,Humor,No
+2/14/2025 13:06:34,albalena@my.cspc.edu.ph,Female,19-24,CTHBM,BSHM,Junior,In a relationship,4,Yes,Flowers,Very,Sincerity,Maybe
+2/14/2025 13:08:40,janotorio@my.cspc.edu.ph,Female,19-24,CTHBM,BSHM,Junior,In a relationship,2,Yes,None of the above,Moderately,Shared interests,Maybe
+2/14/2025 14:32:42,leborlado@my.cspc.edu.ph,Female,19-24,CHS,MAN,Junior,In a relationship,0,No,Flowers,Moderately Romantic,Sincerity,No
+2/14/2025 16:42:32,johsatuito@my.cspc.edu.ph,Male,19-24,CEA,BSEE,Senior,Single,1,They will never know!,Candy/Chocolate,Not At All Romantic,Sincerity,Maybe
+2/14/2025 18:53:57,katlaresma@my.cspc.edu.ph,Female,19-24,CCS,BSCS,Sophomore,In a relationship,1,Yes,Greeting Cards,Moderately,Romance,No
+2/14/2025 19:47:29,matllabres@my.cspc.edu.ph,Male,19-24,CEA,BSME,Junior,In a relationship,0,Yes,Flowers,Moderately,Sincerity,Yes
+2/14/2025 19:57:04,jogonzales@my.cspc.edu.ph,Male,25-29,CEA,BSME,Junior,Single,0,Yes,Greeting Cards,Moderately,Sincerity,Maybe
+2/14/2025 20:41:25,letagum@my.cspc.edu.ph,Male,16-18,CTHBM,BSBA,Junior,Single,27,Yes,Romantic Dinners / Getaways,Not at all,Romance,Yes
+2/14/2025 21:20:46,jobaeno@my.cspc.edu.ph,Female,19-24,CTDE,BTVTEd,Junior,Single,2,They will never know!,To hear “I Love You”,Very Romantic,Humor/Fun,Maybe
+2/14/2025 23:04:31,givillamayor@my.cspc.edu.ph,Male,19-24,CTDE,BTVTEd,Sophomore,Single,1,Yes,To hear “I Love You”,Moderately Romantic,Intelligence,Maybe
+2/15/2025 10:44:47,erocayo@my.cspc.edu.ph,Male,19-24,CCS,BSIS,Sophomore,It’s complicated,1,They will never know!,Romantic Dinners/Getaways,Very Romantic,Humor/Fun,Maybe
+2/15/2025 10:47:03,joespedillon@my.cspc.edu.ph,Male,19-24,CCS,BSIS,Sophomore,Single,1,Yes,Greeting Cards,Moderately Romantic,Humor/Fun,Maybe
+2/15/2025 10:52:50,marolino@my.cspc.edu.ph,Male,19-24,CCS,BSIS,Junior,Single,0,Yes,N/A,Very Romantic,Intelligence,Yes
